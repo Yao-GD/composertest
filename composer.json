@@ -1,4 +1,9 @@
 {
+    "autoload": {
+    "psr-4": {
+        "Ygd\\Packagetest\\": "src/"
+    }
+    }
     "name": "ygd/packagetest-for-laravel",
     "authors": [
         {
@@ -7,9 +12,4 @@
         }
     ],
     "require": {}
-	"autoload": {
-    "psr-4": {
-        "Ygd\\Packagetest\\": "src/"
-    }
-}
 }
