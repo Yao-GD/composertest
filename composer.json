@@ -1,0 +1,15 @@
+{
+    "name": "ygd/packagetest-for-laravel",
+    "authors": [
+        {
+            "name": "ygd",
+            "email": "yaoguangda1@163.com"
+        }
+    ],
+    "require": {}
+	"autoload": {
+    "psr-4": {
+        "Ygd\\Packagetest\\": "src/"
+    }
+}
+}
